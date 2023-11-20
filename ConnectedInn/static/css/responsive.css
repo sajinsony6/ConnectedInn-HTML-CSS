@@ -1,0 +1,201 @@
+@media (576px <= width <= 991.99px) {
+    .top-nav{
+        height: 40px;
+    }
+
+    .navbar{
+        height: 50px;
+    }
+
+    .menu-wrapper img{
+        max-width: 180px;
+        height: auto;
+    }
+
+    .social-links {
+        font-size: 13px;
+        line-height: 16px;
+    }
+
+    .social-links img {
+        margin: 5px 3px;
+    }
+
+    .menu-wrapper .nav-link {
+        background: white;
+        text-align: center;
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    .carousel-inner img {
+        height: 470px;
+    }
+
+    .carousel-caption-top .carousel-head{
+        font-size: 36px;
+        line-height: 42.60px;
+    }
+
+    .carousel-caption-top .secondary-head {
+        max-width: 640px;
+        font-size: 36px;
+        line-height: 47.60px;
+    }
+
+    .carousel-caption-top .carousel-caption p {
+        font-size: 16px;
+        line-height: 23.60px;
+        max-width: 750px;
+    }
+
+
+    /* aboutus */
+
+    .aboutus {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+
+    .aboutus ol {
+        font-size: 13px;
+        line-height: 20.60px;
+    }
+
+    .aboutus h2 {
+        font-size: 36px;
+    }
+    
+    .aboutus p {
+        font-size: 13px;
+        line-height: 23.60px;
+        font-weight: 400;
+        margin-bottom: unset !important;
+    }
+
+    .aboutus-child .btn {
+        font-size: 16px;
+    }
+
+    /* services */
+
+    #services .row {
+        row-gap: 25px;
+    }
+
+    #services {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+
+    .service h1{
+        font-size: 40px;
+        line-height: 21px;
+    }
+
+    .service a{
+        font-size: 15px;
+        line-height: 21px;
+    }
+
+    .service p{
+        font-size: 13px;
+        line-height: 21px;
+    }
+
+    .custom-service p {
+        font-size: 14px;
+        line-height: 18px;
+    }
+
+    .custom-service a {
+        font-size: 13px;
+        line-height: 18px;
+    }
+
+    .custom-service h4 {
+        font-size: 17px;
+        line-height: 18px;
+    }
+
+    .custom-service img{
+        max-width: 30px;
+        height: auto;
+    }
+
+
+
+    /* Partners & Clients */
+
+    .clients {
+        padding-bottom: 50px;
+        padding-top: 20px;
+    }
+
+    .client-logo {
+        flex-wrap: inherit;
+        column-gap: 46px;
+        padding-top: 20px   ;
+    }
+
+    .partners h3 {
+        font-size: 36px;
+    }
+
+    .partners {
+        padding-bottom: 60px;
+        padding-top: 60px;
+    }
+
+    /* ContactUs */
+
+    .contact-us {
+        padding-bottom: 60px;
+        padding-top: 60px;
+    }
+
+    .contact-us h2 {
+        padding-bottom: 35px;
+        font-size: 40px;
+    }
+
+    .contact-us .form-control{
+        font-size: 16px;
+        line-height: 20px;
+        height: 50px;
+    }
+
+    .contact-us .container {
+        max-width: 750px;
+    }
+
+    /* Footer */
+    .footer {
+        padding-bottom: 60px;
+        padding-top: 60px;
+    }
+
+    .footer h5 {
+        font-size: 16px;
+        line-height: 12px;
+    }
+
+    .footer a{
+        font-size: 15px;
+        line-height: 18px;
+    }
+
+    .footer .footer-contactus p {
+        font-size: 15px;
+        line-height: 18px;
+    }
+
+    .footer .footer-contactus h6 {
+        font-size: 16px;
+        line-height: 12px;
+    }
+}
+
+/* @media (992px <= width <= 1399.98px) {
+    
+} */
